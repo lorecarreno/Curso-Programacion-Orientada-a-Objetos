@@ -1,5 +1,5 @@
 
-Paradigma Orientado a Objetos
+#Paradigma Orientado a Objetos
 
 La Programación Orientada a Objetos viene de una filosofía o forma de pensar que es la Orientación a Objetos y esto surge a partir de los problemas que necesitamos plasmar en código.
 
@@ -18,3 +18,5 @@ Y 4 Pilares:
 . Abstracción
 . Herencia
 . Polimorfismo
+
+---------------------
