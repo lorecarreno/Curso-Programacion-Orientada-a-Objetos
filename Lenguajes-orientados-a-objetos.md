@@ -19,3 +19,33 @@ Javascript
 C#
 Ruby
 Kotlin
+--------------------------------------
+Lecturas recomendadas
+
+Curso Básico de Java SE
+
+<https://platzi.com/cursos/java-basico/>
+
+Curso de Introducción a PHP
+
+<https://platzi.com/cursos/php>
+
+Curso de Python
+
+<https://platzi.com/cursos/python>
+
+Fundamentos de JavaScript
+
+<https://platzi.com/cursos/fundamentos-javascript/>
+
+<https://platzi.com/cursos/fundamentos-csharp/>
+
+<https://platzi.com/cursos/fundamentos-csharp/>
+
+<https://platzi.com/cursos/ruby>
+
+<https://platzi.com/cursos/ruby>
+
+<https://platzi.com/cursos/kotlin>
+
+<https://platzi.com/cursos/kotlin>
